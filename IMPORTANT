@@ -3,7 +3,7 @@ It is controlled via bluetooth from an Android smartphone, but the app - wich is
 under development. I expect to release it in September 2016.
 
 There are 4 servos, including one for the claw. I won't release a detailed plan of the structure because you probably don't 
-have the same Lego bricks, but a global schematic of the structure is available (schematic_structure.png) same as one for the
+have the same Lego bricks, but a global schematic of the structure is available (schematic_structure.png*) same as one for the
 Arduino and servos connections (schematic_circuit.fzz).
 
 I'm a beginner and this is by first real project. I've been tinkering with Arduino, LEDs, LCDs, capacitors, sensors, etc, so I
@@ -17,3 +17,5 @@ However, I'd like to create the app as much by myself as possible, because I rea
 Thanks for reading and I hope you will like my project.
 
 Hugo.T
+
+*In the schematic of the structure, the claw is oriented vertically, but actually, it is oriented horizontally...
