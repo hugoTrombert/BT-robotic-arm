@@ -6,15 +6,18 @@ There are 4 servos, including one for the claw. I won't release a detailed plan 
 have the same Lego bricks, but a global schematic of the structure is available (schematic_structure.png*) same as one for the
 Arduino and servos connections (schematic_circuit.fzz).
 
-I'm a beginner and this is by first real project. I've been tinkering with Arduino, LEDs, LCDs, capacitors, sensors, etc, so I
-acquired knowledge in electronics and programming, but I am currently learning Java and Android development in order to be able
-to create the app, because know absolutely nothing about it...
+I'm a beginner and this is by first real project. I've been tinkering with Arduino, LEDs, LCDs, capacitors, sensors, etc, for
+a year, so I acquired knowledge in electronics and programming, but I am currently learning Java and Android development in order
+to be able to create the app, because I know absolutely nothing about it...
 
 I love open-source because I can share my projects, for everybody to learn, and on the other hand, people can help me when I'm 
 having trouble with a programming issue.
 However, I'd like to create the app as much by myself as possible, because I really want to do this project on my own.
 
 Thanks for reading and I hope you will like my project.
+
+Checkout my other cool projects for beginners on Instructables (LCD thermometer, LCD + BT, RGB LED...)
+(http://www.instructables.com/member/Hugo+Trombert/).
 
 Hugo.T
 
