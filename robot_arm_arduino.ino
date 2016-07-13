@@ -5,7 +5,7 @@ Servo servo1, servo2, servo3, servo4;
 char buffer[10];
 int charsRead;
 int val;
-int angle;
+int angle2, angle3, angle4;
 
 void setup(){
   servo1.attach(11);
@@ -30,46 +30,46 @@ void setup(){
             servo2.write(170);
     
     while (val == 201){
-      servo2.write(angle--);
+      servo2.write(angle2--);
       delay(35);
       }
         while (val == 202){
-          servo2.write(angle++);
+          servo2.write(angle2++);
           delay(35);
           }
       while (val != 201 && val != 202){
-        angle = servo2.read();
-        servo2.write(angle);
+        angle2 = servo2.read();
+        servo2.write(angle3);
         delay(35);
         }
                  servo3.write(170);
     
     while (val == 301){
-      servo3.write(angle--);
+      servo3.write(angle3--);
       delay(35);
       }
         while (val == 302){
-          servo3.write(angle++);
+          servo3.write(angle3++);
           delay(35);
           }
       while (val != 301 && val != 302){
-        angle = servo3.read();
-        servo3.write(angle);
+        angle3 = servo3.read();
+        servo3.write(angle3);
         delay(35);
         }
                  servo4.write(170);
     
     while (val == 401){
-      servo4.write(angle--);
+      servo4.write(angle4--);
       delay(35);
       }
         while (val == 402){
-          servo4.write(angle++);
+          servo4.write(angle4++);
           delay(35);
           }
       while (val != 401 && val != 402){
-        angle = servo4.read();
-        servo4.write(angle);
+        angle4 = servo4.read();
+        servo4.write(angle4);
         delay(35);
         }
         
