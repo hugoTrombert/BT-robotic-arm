@@ -1,0 +1,16 @@
+As of summer 2016, it had been a little more than a year since I had started programming. 
+What I used to do was mostly little projects using LEDs, LCDs, sensors, etc, that required a few hours of work. 
+But this summer, I thought I should do a more concrete project, that would require me to work for multiple weeks, during which I would learn a lot more skills.
+Building a robotic arm was great, but I wouldn't learn a lot... 
+So I decided to build it and also create an app to control it, because I had never created any app, nor any Java program.
+The app is for Android and works using Bluetooth. 
+
+After a little more than a month of work.... It worked!
+
+Thanks a lot to people on StackOverflow, Android Forums and the Arduino Forum for their help when I needed some, especially about Android development.
+Thanks also to OpenClassrooms, a great French website where I learned Java and the basics of Android.
+
+Checkout my other cool projects on Instructables!
+(http://www.instructables.com/member/Hugo+Trombert/).
+
+~Hugo.T
